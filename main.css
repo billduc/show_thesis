@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#root{
+  position: relative;
+}
+.item{
+  position: relative;
+  left:450px;
+}
+.tit{
+	color:blue;
+	margin: 0px 0px 0px 0px;
+}
+
+.item img{
+  width: 280px;
+}
